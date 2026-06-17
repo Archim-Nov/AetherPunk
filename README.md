@@ -138,15 +138,6 @@
 - 你想把 AI 当真正的叙事主持人。
 - 你想做长线角色，把 NPC 档案和城市记忆慢慢建成一个属于你的故事数据库。
 
-## 本地启动
-
-```powershell
-npm install
-npm run dev
-```
-
-打开本地地址后，从首页选择 **New Runner** 创建角色，进入 **New Mission** 选择任务简报，最后通过 **Continue** 接入当前任务。
-
 ---
 
 <p align="center">
