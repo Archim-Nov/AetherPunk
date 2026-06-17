@@ -138,15 +138,6 @@ The unfinished business you left behind is becoming someone else’s motive.
 - You want the AI to act like a real narrator.
 - You want to build long-term characters, NPC files, and city memory into your own story database.
 
-## Local Setup
-
-```powershell
-npm install
-npm run dev
-```
-
-Open the local URL, choose **New Runner** to create a character, enter **New Mission** to pick a briefing, then use **Continue** to connect to the current run.
-
 ---
 
 <p align="center">
