@@ -138,15 +138,6 @@
 - AI を本当の物語進行役として使いたい。
 - 長期キャラクターを作り、NPC ファイルと都市記憶を自分だけの物語データベースに育てたい。
 
-## ローカル起動
-
-```powershell
-npm install
-npm run dev
-```
-
-ローカル URL を開き、**New Runner** でキャラクターを作成し、**New Mission** でブリーフィングを選び、**Continue** から現在の任務へ接続します。
-
 ---
 
 <p align="center">
